@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShashRaj
 - 👀 I’m interested in Tech Stuffs
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C/C++.
 - 📫 How to reach me ...
 
 <!---
